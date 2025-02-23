@@ -8,4 +8,3 @@
 ```
 pip install -r './requirements.txt'
 ```
-4. Installation of Jupyter for VSCODE [Link](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
